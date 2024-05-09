@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi! It's Yudhi here 👋
+
+A passionate Front-End Web Developer & Flutter Mobile Developer based in Bogor, Indonesia 📍
+
+I am someone who is full of passion and enthusiasm in frontend development and Flutter mobile development. Exploring the world of coding is like an adventure for me, where every line of code is a step towards greater achievements.
+
 
 <!--
 **yudhiazhr/yudhiazhr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
